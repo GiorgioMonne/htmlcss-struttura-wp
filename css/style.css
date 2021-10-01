@@ -11,6 +11,14 @@
 
 /* ******header***** */
 
+header.top{
+    height: 80px;
+    background-color: rgb(216, 159, 216);
+    margin-bottom: 20;
+}
+
+
+
 /* ******main***** */
 
 /* ******footer***** */
