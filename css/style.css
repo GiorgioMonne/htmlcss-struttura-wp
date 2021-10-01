@@ -14,10 +14,17 @@
 header.top{
     height: 80px;
     background-color: rgb(216, 159, 216);
-    margin-bottom: 20;
+    margin-bottom: 20px;
 }
 
+.jumbotron{
+    background-color: rgb(177, 177, 128);
+    margin-bottom: 20px;
+}
 
+.debug{
+    height: 300px;
+}
 
 /* ******main***** */
 
